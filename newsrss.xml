@@ -1,55 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <rss version="2.0">
   <channel>
     <title>こどもニュース</title>
     <description>ChatGPTが日本のニュースをやさしく解説します。</description>
-    <link>https://example.com/kodomo-news</link>
+    <link>https://example.com/</link>
     <language>ja</language>
+    <lastBuildDate>Sun, 11 May 2025 06:24:19 +0900</lastBuildDate>
+<item>
+  <title>地下鉄サリン事件から30年、霞ケ関駅で慰霊式</title>
+  <link>https://news.ntv.co.jp/</link>
+  <description>1995年に起きた地下鉄サリン事件から30年が経ちました。東京の霞ケ関駅では、事件の犠牲者をしのぶために駅員たちが黙とうをささげました。事件では14人が亡くなり、6000人以上がけがをしました。サリンという猛毒のガスが使われ、多くの人が苦しみました。事件を忘れないように、毎年慰霊式が行われています。</description>
+  <pubDate>Sun, 11 May 2025 06:00:00 +0900</pubDate>
+</item>
 
-    <item>
-      <title>安松青葉選手、世界大会で4位に！</title>
-      <description>
-        中国の成都で開かれた世界のトライアスロン大会で、日本の安松青葉選手が4位に入りました。トライアスロンは、水泳、自転車、走ることの3つを続けて行うスポーツです。安松選手は、来週の世界選手権にも出場する予定です。
-      </description>
-      <link>https://www.jtu.or.jp/news/2025/05/10/72215/</link>
-      <pubDate>Sat, 10 May 2025 09:00:00 +0900</pubDate>
-    </item>
+<item>
+  <title>那須ハイランドパークで犬と楽しむイベント開催</title>
+  <link>https://prtimes.jp/main/html/rd/p/000000529.000005736.html</link>
+  <description>栃木県の那須ハイランドパークで、犬と一緒に楽しめるイベント「Shi-Baといっしょ！愛犬とたのしむ那須ハイランドパーク」が始まりました。犬と一緒に遊べるアトラクションや写真撮影スポットがあり、家族みんなで楽しめます。犬を飼っている人にとって、うれしいイベントですね。</description>
+  <pubDate>Sun, 11 May 2025 05:00:00 +0900</pubDate>
+</item>
 
-    <item>
-      <title>かごしま茶の新茶まつり開催</title>
-      <description>
-        鹿児島市で、新しくできたお茶「新茶」を楽しむお祭りが開かれました。鹿児島県は、日本で一番お茶をたくさん作っている場所です。色、味、香りがそろったおいしいお茶が紹介され、多くの人が訪れました。
-      </description>
-      <link>https://news.ntv.co.jp/n/kyt/category/society/kyc2f6703e6b42489ea5378272fbd9f05f</link>
-      <pubDate>Sat, 10 May 2025 10:00:00 +0900</pubDate>
-    </item>
+<item>
+  <title>近鉄湯の山線の列車に新しいデザインの案内板</title>
+  <link>https://railf.jp/news/2025/05/11/001500.html</link>
+  <description>三重県を走る近鉄湯の山線の列車に、新しいデザインの案内板が取り付けられました。この案内板は、どこ行きの列車かを知らせるもので、特別なデザインになっています。電車が好きな人たちにとって、注目のニュースですね。</description>
+  <pubDate>Sun, 11 May 2025 00:15:00 +0900</pubDate>
+</item>
 
-    <item>
-      <title>麻生麗名選手、小中学生に卓球を教える</title>
-      <description>
-        鳥取市で、卓球のトップ選手である麻生麗名さんが、小学生や中学生に直接卓球を教える教室が開かれました。子どもたちは、プロの技を間近で見て、楽しく練習しました。
-      </description>
-      <link>https://news.ntv.co.jp/category/society/nkb0c41c2a0ab447a1af2c55d50f399f43</link>
-      <pubDate>Sat, 10 May 2025 11:00:00 +0900</pubDate>
-    </item>
+<item>
+  <title>鹿児島県で交通違反の取り締まり情報</title>
+  <link>https://newsdig.tbs.co.jp/articles/mbc/1889043?display=1</link>
+  <description>鹿児島県では、5月11日に交通違反の取り締まりが行われます。飲酒運転やスピードの出しすぎ、携帯電話を使いながらの運転などが対象です。交通ルールを守って、安全に運転しましょう。</description>
+  <pubDate>Sun, 11 May 2025 00:00:00 +0900</pubDate>
+</item>
 
-    <item>
-      <title>グーグル、位置情報の問題で和解金支払い</title>
-      <description>
-        アメリカの大きなIT会社グーグルが、人々の位置情報を正しくない方法で集めていたとして、テキサス州と話し合い、約13億7500万ドル（日本円で約2000億円）を支払うことになりました。これは、同じような問題での過去最大の金額です。
-      </description>
-      <link>https://news.ntv.co.jp/category/international/ec38b38d60b1420ea2b2d28b258214ae</link>
-      <pubDate>Sat, 10 May 2025 12:00:00 +0900</pubDate>
-    </item>
-
-    <item>
-      <title>日本ハム対楽天の試合、熱戦のハイライト</title>
-      <description>
-        5月10日、北海道日本ハムファイターズと東北楽天ゴールデンイーグルスの野球の試合が行われました。両チームともに全力で戦い、見ごたえのある試合となりました。
-      </description>
-      <link>https://pacificleague.com/video/4711802</link>
-      <pubDate>Sat, 10 May 2025 17:41:00 +0900</pubDate>
-    </item>
+<item>
+  <title>日本ハムの万波選手、無駄のないスイングで活躍</title>
+  <link>https://www.sponichi.co.jp/baseball/news/2025/05/11/kiji/20250511s00001173034000c.html</link>
+  <description>プロ野球の日本ハムファイターズの万波選手が、無駄のないスイングで活躍しています。試合では、力強いバッティングを見せ、チームの勝利に貢献しました。野球ファンにとって、うれしいニュースですね。</description>
+  <pubDate>Sun, 11 May 2025 00:00:00 +0900</pubDate>
+</item>
 
   </channel>
-</rss>
+</rss>:contentReference[oaicite:4]{index=4}
+::contentReference[oaicite:5]{index=5}
