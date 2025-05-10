@@ -1,14 +1,66 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>私のニュース</title>
-    <link>https://example.com/</link>
-    <description>最新のお知らせ</description>
+    <title>今朝の日本のニュース（中学生向け解説付き）</title>
+    <link>https://www.example.com/news</link>
+    <description>2025年5月9日朝の日本の主要ニュースをやさしく解説</description>
+    <language>ja</language>
+    <pubDate>Sat, 10 May 2025 08:00:00 +0900</pubDate>
+
     <item>
-      <title>新しい記事</title>
-      <link>https://example.com/article1</link>
-      <description>これは記事の説明です。</description>
-      <pubDate>Sat, 10 May 2025 10:00:00 +0900</pubDate>
+      <title>北朝鮮、8日ぶりに弾道ミサイルを発射</title>
+      <description>
+        北朝鮮は日本海に向けて短距離弾道ミサイルを発射。約250km飛行し、日本には到達しませんでした。
+        ▪ 弾道ミサイル＝ロケットのように飛ぶ兵器
+        ▪ 背景：北朝鮮は軍事力を見せて、国際交渉で有利になろうとしています。
+      </description>
+      <pubDate>Fri, 09 May 2025 09:30:00 +0900</pubDate>
+      <guid>https://www.example.com/news/1</guid>
     </item>
+
+    <item>
+      <title>日本製鉄、純利益42％減の見通し</title>
+      <description>
+        鉄の需要減や関税の影響で、日本製鉄の利益が42.9%減少の予想。
+        ▪ 純利益＝企業のもうけ
+        ▪ 背景：世界経済の変化と関税の影響で鉄鋼業界が不調です。
+      </description>
+      <pubDate>Fri, 09 May 2025 11:00:00 +0900</pubDate>
+      <guid>https://www.example.com/news/2</guid>
+    </item>
+
+    <item>
+      <title>NTT、社名を「日本電信電話」から「NTT」に変更</title>
+      <description>
+        2025年7月から正式な社名が「NTT」に。国際的なイメージ強化が目的。
+        ▪ 刷新＝新しくすること
+        ▪ 背景：海外での名前の認知度アップを狙っています。
+      </description>
+      <pubDate>Fri, 09 May 2025 13:00:00 +0900</pubDate>
+      <guid>https://www.example.com/news/3</guid>
+    </item>
+
+    <item>
+      <title>日経平均株価、403円高でスタート</title>
+      <description>
+        日経平均は403円上がり、3万7332円に。米英の貿易合意が影響。
+        ▪ 日経平均＝代表的な株価の平均
+        ▪ 背景：投資家の安心感が株を買う動きにつながっています。
+      </description>
+      <pubDate>Fri, 09 May 2025 09:00:00 +0900</pubDate>
+      <guid>https://www.example.com/news/4</guid>
+    </item>
+
+    <item>
+      <title>米英が貿易枠組みに合意、日本との協議は長期化か</title>
+      <description>
+        米英が新しい貿易協定に合意。日本とは協議が長引く可能性。
+        ▪ 通商協議＝国同士の貿易ルールの話し合い
+        ▪ 背景：アメリカが自国の利益を重視し、交渉が難しくなっています。
+      </description>
+      <pubDate>Fri, 09 May 2025 10:00:00 +0900</pubDate>
+      <guid>https://www.example.com/news/5</guid>
+    </item>
+
   </channel>
 </rss>
