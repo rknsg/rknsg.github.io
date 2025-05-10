@@ -1,61 +1,55 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-<channel>
-  <title>今朝の日本のニュース（Alexa向け）</title>
-  <link>https://yourname.github.io/news-rss/</link>
-  <description>毎朝、ChatGPTが日本のニュースを中学生にもわかるようにやさしく解説します。</description>
-  <language>ja</language>
-  <lastBuildDate>Sat, 10 May 2025 09:00:00 +0900</lastBuildDate>
+  <channel>
+    <title>こどもニュース</title>
+    <description>ChatGPTが日本のニュースをやさしく解説します。</description>
+    <link>https://example.com/kodomo-news</link>
+    <language>ja</language>
 
-  <item>
-    <title>盗まれた仏像が13年ぶりに日本へ戻ります</title>
-    <link>https://yourname.github.io/news-rss/#1</link>
-    <guid>https://yourname.github.io/news-rss/#1</guid>
-    <pubDate>Sat, 10 May 2025 09:00:00 +0900</pubDate>
-    <description>
-2012年に長崎県対馬市の観音寺から盗まれ、韓国に持ち込まれた仏像が、13年ぶりに日本へ戻ることになりました。韓国の寺で保管されていたこの仏像は、5月10日に日本側に引き渡され、12日に対馬に戻る予定です。この問題は、日韓の関係に一時的な緊張をもたらしましたが、長い時間をかけて解決に至りました。文化財の返還は、国と国との信頼関係にも影響を与える大切な出来事です。
-    </description>
-  </item>
+    <item>
+      <title>安松青葉選手、世界大会で4位に！</title>
+      <description>
+        中国の成都で開かれた世界のトライアスロン大会で、日本の安松青葉選手が4位に入りました。トライアスロンは、水泳、自転車、走ることの3つを続けて行うスポーツです。安松選手は、来週の世界選手権にも出場する予定です。
+      </description>
+      <link>https://www.jtu.or.jp/news/2025/05/10/72215/</link>
+      <pubDate>Sat, 10 May 2025 09:00:00 +0900</pubDate>
+    </item>
 
-  <item>
-    <title>日本ハムの生田目投手がけがで3週間の休養へ</title>
-    <link>https://yourname.github.io/news-rss/#2</link>
-    <guid>https://yourname.github.io/news-rss/#2</guid>
-    <pubDate>Sat, 10 May 2025 08:45:00 +0900</pubDate>
-    <description>
-プロ野球チームの日本ハムに所属する生田目翼投手が、右足首のけがで約3週間の休養が必要となりました。5月7日の試合中、守備の際に足首をひねってしまい、検査の結果、靱帯を痛めていることがわかりました。選手のけがはチームにとって大きな影響があり、ファンも心配しています。早い回復を願いたいですね。
-    </description>
-  </item>
+    <item>
+      <title>かごしま茶の新茶まつり開催</title>
+      <description>
+        鹿児島市で、新しくできたお茶「新茶」を楽しむお祭りが開かれました。鹿児島県は、日本で一番お茶をたくさん作っている場所です。色、味、香りがそろったおいしいお茶が紹介され、多くの人が訪れました。
+      </description>
+      <link>https://news.ntv.co.jp/n/kyt/category/society/kyc2f6703e6b42489ea5378272fbd9f05f</link>
+      <pubDate>Sat, 10 May 2025 10:00:00 +0900</pubDate>
+    </item>
 
-  <item>
-    <title>黄砂が九州から関東にかけて飛来中</title>
-    <link>https://yourname.github.io/news-rss/#3</link>
-    <guid>https://yourname.github.io/news-rss/#3</guid>
-    <pubDate>Sat, 10 May 2025 08:30:00 +0900</pubDate>
-    <description>
-5月10日から11日にかけて、黄砂が九州から関東にかけて飛来する予想です。黄砂は中国の砂漠地帯から風に乗って飛んでくる細かい砂で、空がかすんだり、洗濯物や車が汚れたりすることがあります。濃度はあまり高くない見込みですが、外出の際は注意が必要です。特にアレルギーや呼吸器系の弱い人は、マスクを着用するなど対策をしましょう。
-    </description>
-  </item>
+    <item>
+      <title>麻生麗名選手、小中学生に卓球を教える</title>
+      <description>
+        鳥取市で、卓球のトップ選手である麻生麗名さんが、小学生や中学生に直接卓球を教える教室が開かれました。子どもたちは、プロの技を間近で見て、楽しく練習しました。
+      </description>
+      <link>https://news.ntv.co.jp/category/society/nkb0c41c2a0ab447a1af2c55d50f399f43</link>
+      <pubDate>Sat, 10 May 2025 11:00:00 +0900</pubDate>
+    </item>
 
-  <item>
-    <title>長崎の平和宣言に「核のタブー」盛り込む提案</title>
-    <link>https://yourname.github.io/news-rss/#4</link>
-    <guid>https://yourname.github.io/news-rss/#4</guid>
-    <pubDate>Sat, 10 May 2025 08:15:00 +0900</pubDate>
-    <description>
-2025年8月9日に行われる長崎の平和祈念式典で読み上げられる「平和宣言」の内容を考える委員会が、初めての会合を開きました。今年は被爆から80年となる節目の年であり、「核兵器を使ってはいけない」という強いメッセージを込める提案が出されました。平和宣言は、戦争の悲惨さや平和の大切さを伝える重要な役割を果たしています。
-    </description>
-  </item>
+    <item>
+      <title>グーグル、位置情報の問題で和解金支払い</title>
+      <description>
+        アメリカの大きなIT会社グーグルが、人々の位置情報を正しくない方法で集めていたとして、テキサス州と話し合い、約13億7500万ドル（日本円で約2000億円）を支払うことになりました。これは、同じような問題での過去最大の金額です。
+      </description>
+      <link>https://news.ntv.co.jp/category/international/ec38b38d60b1420ea2b2d28b258214ae</link>
+      <pubDate>Sat, 10 May 2025 12:00:00 +0900</pubDate>
+    </item>
 
-  <item>
-    <title>大阪の工場に新しい電炉を建設へ</title>
-    <link>https://yourname.github.io/news-rss/#5</link>
-    <guid>https://yourname.github.io/news-rss/#5</guid>
-    <pubDate>Sat, 10 May 2025 08:00:00 +0900</pubDate>
-    <description>
-大阪市にある中山製鋼所の工場に、新しい電気炉（電炉）が建設されることになりました。日本製鉄と共同で約950億円を投じて、2026年に着工し、2030年度中の操業開始を目指しています。電炉は、鉄くずを電気の力で溶かして再利用する設備で、二酸化炭素の排出を抑えることができます。環境にやさしい製造方法として注目されています。
-    </description>
-  </item>
+    <item>
+      <title>日本ハム対楽天の試合、熱戦のハイライト</title>
+      <description>
+        5月10日、北海道日本ハムファイターズと東北楽天ゴールデンイーグルスの野球の試合が行われました。両チームともに全力で戦い、見ごたえのある試合となりました。
+      </description>
+      <link>https://pacificleague.com/video/4711802</link>
+      <pubDate>Sat, 10 May 2025 17:41:00 +0900</pubDate>
+    </item>
 
-</channel>
+  </channel>
 </rss>
