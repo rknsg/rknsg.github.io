@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
 <channel>
-  <title>こどもニュース</title>
+  <title>今朝の日本のニュース（Alexa向け）</title>
   <link>https://yourname.github.io/news-rss/</link>
-  <description>ChatGPTが日本のニュースをやさしく解説します。</description>
+  <description>毎朝、ChatGPTが日本のニュースを中学生にもわかるようにやさしく解説します。</description>
   <language>ja</language>
   <lastBuildDate>Sat, 10 May 2025 09:00:00 +0900</lastBuildDate>
 
@@ -50,4 +50,12 @@
   <item>
     <title>大阪の工場に新しい電炉を建設へ</title>
     <link>https://yourname.github.io/news-rss/#5</link>
-    <guid>https://yourname.github.io/news-rss
+    <guid>https://yourname.github.io/news-rss/#5</guid>
+    <pubDate>Sat, 10 May 2025 08:00:00 +0900</pubDate>
+    <description>
+大阪市にある中山製鋼所の工場に、新しい電気炉（電炉）が建設されることになりました。日本製鉄と共同で約950億円を投じて、2026年に着工し、2030年度中の操業開始を目指しています。電炉は、鉄くずを電気の力で溶かして再利用する設備で、二酸化炭素の排出を抑えることができます。環境にやさしい製造方法として注目されています。
+    </description>
+  </item>
+
+</channel>
+</rss>
