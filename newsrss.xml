@@ -7,65 +7,16 @@
     <link>https://example.com/</link>
     <language>ja</language>
     <lastBuildDate>Sun, 11 May 2025 06:24:19 +0900</lastBuildDate>
-<item>
-  <title>地下鉄サリン事件から30年、霞ケ関駅で慰霊式</title>
-  <link>https://news.ntv.co.jp/articles/20250513_sarin_memorial</link>
-  <description>
-    1995年に東京の地下鉄で起きたサリン事件から30年がたちました。
-    この事件では、オウム真理教という団体が毒ガスをまき、14人が亡くなり、6000人以上がけがをしました。
-    当時のことを忘れないように、霞ケ関駅で駅員さんたちが黙とうをささげました。
-    事件で夫を亡くした高橋シズヱさんは、「事件のことを忘れないでほしい」と話しました。
-    この事件は、日本で起きたとても大きな犯罪の一つです。
-  </description>
-  <pubDate>Tue, 13 May 2025 08:00:00 +0900</pubDate>
-</item>
-
-<item>
-  <title>愛知県豊田市の工場で爆発事故、1人死亡</title>
-  <link>https://news.ntv.co.jp/articles/20250513_toyota_factory_explosion</link>
-  <description>
-    愛知県豊田市にある工場で、集じん機という機械が爆発する事故がありました。
-    この事故で1人が亡くなり、2人がけがをしました。
-    集じん機は、工場の中のほこりやゴミを集めるための機械です。
-    警察と消防が、事故の原因を調べています。
-  </description>
-  <pubDate>Tue, 13 May 2025 10:20:00 +0900</pubDate>
-</item>
-
-<item>
-  <title>和歌山市のホテルで食中毒、19人が症状訴える</title>
-  <link>https://news.ntv.co.jp/articles/20250513_wakayama_food_poisoning</link>
-  <description>
-    和歌山市のホテルのレストランで食事をした人たちが、吐き気や下痢などの症状を訴えました。
-    19人が同じような症状を見せていて、サポウイルスというウイルスが原因とみられています。
-    サポウイルスは、食べ物を通じて感染し、おなかの調子が悪くなる病気を引き起こします。
-    保健所が詳しく調べています。
-  </description>
-  <pubDate>Tue, 13 May 2025 12:15:00 +0900</pubDate>
-</item>
-
-<item>
-  <title>北海道三笠市で春のクマ対策、ハンターが技術学ぶ</title>
-  <link>https://news.ntv.co.jp/articles/20250513_mikasa_bear_control</link>
-  <description>
-    北海道三笠市で、春に出てくるクマを安全に捕まえるための訓練が行われました。
-    ハンターたちが集まり、実際の現場で使える技術を学びました。
-    クマは春になると活動を始め、人里に出てくることがあります。
-    人とクマの事故を防ぐために、こうした訓練が大切です。
-  </description>
-  <pubDate>Tue, 13 May 2025 12:01:00 +0900</pubDate>
-</item>
-
-<item>
-  <title>奈良地裁、4歳女児暴行死事件で被告に無罪判決</title>
-  <link>https://news.ntv.co.jp/articles/20250513_nara_court_verdict</link>
-  <description>
-    奈良県で4歳の女の子が亡くなった事件で、母親の交際相手が暴行したとして裁判になっていました。
-    奈良地方裁判所は、被告の暴行以外にもけがの原因があるかもしれないとして、無罪の判決を出しました。
-    この事件は、子どもへの虐待が疑われるもので、社会でも大きな関心を集めていました。
-  </description>
-  <pubDate>Tue, 13 May 2025 10:11:00 +0900</pubDate>
-</item>
+#お願い
+RSS用のxmlを作成するために、今朝の日本のニュースを5つピックアップし、ルールに従ってまとめ、出力してください。
+#ルール
+中学生にもわかるように、見出し・本文の要約・重要語句の説明・背景知識をやさしい日本語でまとめる。
+漢字はそのまま使い、難しい言葉には文中でわかりやすい説明をつける。
+Alexaなどの音声読み上げでも自然に聞こえるよう、リスト形式やカッコ書きは使わず、話し言葉に近い表現にする。
+#出力形式
+ダミーリンク付きのRSS 2.0形式（UTF-8）
+titleは「こどもニュース」
+descriptionは「ChatGPTが日本のニュースをやさしく解説します。」
 
 
 
